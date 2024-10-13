@@ -24,7 +24,7 @@
   — 💻Atualmente estou estudando programação com foco em javascript.
 </p>
 <p>
-  — ♦️ Estudo na escola SENAI de informática.
+  — ♦️ Estudo na escola SENAI Paulo Antonio Skaf.
 </p>
 
  <!--subtitulo-->
