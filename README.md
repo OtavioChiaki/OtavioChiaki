@@ -8,7 +8,7 @@
 <!-- https://br.pinterest.com/pin/633387442385676/ -->
 <div align= "center">
   
-![e69f39fef446fa781dd10d9a4e6eefc9](https://github.com/OtavioChiaki/OtavioChiaki/assets/166552579/32597f1a-85fc-4f6d-9483-65ca3b5e9519)
+![e69f39fef446fa781dd10d9a4e6eefc9](https://github.com/Otto-Bovolon/Otto-Bovolon/assets/166552579/32597f1a-85fc-4f6d-9483-65ca3b5e9519)
  </div>
 
 <!-- subtitulo -->
@@ -45,8 +45,8 @@
  <!--github-->
 
 <div  >
-  <a href="https://github.com/OtavioChiaki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioChiaki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioChiaki&layout=compact&langs_count=7&theme=dark"/> </div>
+  <a href="https://github.com/Otto-Bovolon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otto-Bovolon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otto-Bovolon&layout=compact&langs_count=7&theme=dark"/> </div>
 
    <div align= "center"> 
      
